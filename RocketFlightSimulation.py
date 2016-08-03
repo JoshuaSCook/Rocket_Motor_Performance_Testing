@@ -104,7 +104,7 @@ a_P = 0.28    # cross-sectional area of parachute (m^2)
 k_P = 0.5 * rho * cd_P * a_P    # proportionality constant (kg/m) for parachute
 
 # Motor Performance - Thrust (N) as a function of time (s)
-data = np.genfromtxt('thrust_data.csv', dtype=None, names=True, delimiter=",")
+data = np.genfromtxt('ThrustData/thrust_data.csv', dtype=None, names=True, delimiter=",")
 time_data = [0.0]
 thrust_data = [0.0]
 for row in data:
