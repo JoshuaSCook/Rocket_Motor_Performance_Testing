@@ -1,0 +1,13 @@
+%run C:/Users/Joshua/Documents/Rocketry/Rocket_Motor_Performance_Testing/RocketFlightSimulation.py
+TOTAL IMPULSE: 14.0 Ns
+AVERAGE THRUST: 4.7 N
+BURN TIME: 3.0 s
+MOTOR RATING: D5-3
+
+MAXIMUM G-FORCE: 2.4 G's
+MAXIMUM VELOCITY: 32.2 m/s
+APOGEE IN: 4.6 s
+MAXIMUM ALTITUDE: 71.1 m
+
+DESCENT RATE: -2.4 m/s
+TOTAL FLIGHT TIME: 34.8 s
